@@ -9,6 +9,7 @@ public class MyClass {
             for (int j = 0; j <=10 ; ++j) {
 
                 System.out.println(i+ j);
+                System.out.println( "Hello Git");
             }
 
         }
