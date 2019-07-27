@@ -10,6 +10,7 @@ public class MyClass {
 
                 System.out.println(i+ j);
                 System.out.println( "Hello Git");
+                System.out.println( "Hello Git");
             }
 
         }
